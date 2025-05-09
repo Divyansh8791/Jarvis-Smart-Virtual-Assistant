@@ -17,7 +17,7 @@ Jarvy is a voice-enabled personal assistant chatbot built using **Gradio**, **La
 
 ## 📸 Use it via
 
-[![Hugging Face Space](https://img.shields.io/badge/Click%20and%20try-HuggingFace-blue?logo=Jarvis)](https://huggingface.co/spaces/Divyansh-87/Smart_Virtual_Assistant)
+[![Hugging Face Space](https://img.shields.io/badge/Click%20and%20try-Jarvis-blue?logo=Huggingface)](https://huggingface.co/spaces/Divyansh-87/Smart_Virtual_Assistant)
 
 ---
 
